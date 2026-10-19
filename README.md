@@ -14,13 +14,13 @@ With the mod installed, `design-system` in that row is underlined and opens the 
 At the prompt of a Claude Code session in a terminal:
 
 ```
-/plugin install skill-links --marketplace vdvoorder/skill-links
+/plugin install skill-links --marketplace vdvoorder/claude-code-skill-links
 ```
 
 From a shell:
 
 ```
-claude plugin install skill-links --marketplace vdvoorder/skill-links
+claude plugin install skill-links --marketplace vdvoorder/claude-code-skill-links
 ```
 
 Answer `y` to add the marketplace, then pick a scope. The mod is active right away.
@@ -56,7 +56,7 @@ The mod stores one thing: the list of skill names and file paths, in Claude Code
 Load the mod from a checkout for one session:
 
 ```
-claude --plugin-dir /path/to/skill-links
+claude --plugin-dir /path/to/claude-code-skill-links
 ```
 
 Check the manifest and hooks, and run the tests:

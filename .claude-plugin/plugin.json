@@ -6,8 +6,8 @@
     "name": "Ruben Van de Voorde (Avanseer)",
     "url": "https://github.com/vdvoorder"
   },
-  "homepage": "https://github.com/vdvoorder/skill-links",
-  "repository": "https://github.com/vdvoorder/skill-links",
+  "homepage": "https://github.com/vdvoorder/claude-code-skill-links",
+  "repository": "https://github.com/vdvoorder/claude-code-skill-links",
   "license": "MIT",
   "keywords": ["skills", "hyperlinks", "terminal", "mod"],
   "types": "./types/index.d.ts"
