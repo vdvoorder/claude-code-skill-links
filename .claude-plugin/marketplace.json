@@ -1,0 +1,15 @@
+{
+  "name": "skill-links",
+  "description": "Clickable skill names in Claude Code's Skill tool rows",
+  "owner": {
+    "name": "Ruben Van de Voorde (Avanseer)",
+    "url": "https://github.com/vdvoorder"
+  },
+  "plugins": [
+    {
+      "name": "skill-links",
+      "source": "./",
+      "description": "Makes the skill name in a Skill(...) tool row a clickable link to its SKILL.md"
+    }
+  ]
+}

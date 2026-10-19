@@ -1,0 +1,14 @@
+{
+  "name": "skill-links",
+  "version": "0.1.0",
+  "description": "Makes the skill name in a Skill(...) tool row a clickable link to its SKILL.md",
+  "author": {
+    "name": "Ruben Van de Voorde (Avanseer)",
+    "url": "https://github.com/vdvoorder"
+  },
+  "homepage": "https://github.com/vdvoorder/skill-links",
+  "repository": "https://github.com/vdvoorder/skill-links",
+  "license": "MIT",
+  "keywords": ["skills", "hyperlinks", "terminal", "mod"],
+  "types": "./types/index.d.ts"
+}
