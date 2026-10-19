@@ -2,12 +2,9 @@
 
 A Claude Code mod that turns the skill name in a `Skill(...)` tool row into a link to that skill's `SKILL.md`. Click the name the way your terminal opens links (Ctrl-click in most terminals, Cmd-click in iTerm2) to open the file.
 
-```
-● Skill(design-system)
-  ⎿  Successfully loaded skill
-```
+<img src="docs/skill-row.png" width="494" alt="A Skill(release-notes) row in Claude Code with the skill name underlined as a link">
 
-With the mod installed, `design-system` in that row is underlined and opens the skill's `SKILL.md`.
+Clicking `release-notes` opens `.claude/skills/release-notes/SKILL.md`.
 
 ## Install
 
